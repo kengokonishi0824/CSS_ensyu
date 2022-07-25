@@ -5,7 +5,7 @@ header{
 }
 
 .coachtech{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   color: darkblue;
 }
@@ -15,11 +15,12 @@ ul {
   font-weight: bold;
   color: darkblue;
   list-style: none;
-  padding: 10px;
+  padding: 20px;
+  font-size: 15px;
 }
 
 .logo{
-  padding: 10px;
+  padding: 10px 20px;
 }
 
 li{
@@ -36,7 +37,7 @@ li{
 .ttl-left{
   position: absolute;
   width: 100%;
-  height: 600px;
+  height: 500px;
 }
 
 .txt1-parent{
@@ -49,7 +50,7 @@ li{
   position: absolute;
   bottom: 0;
   margin: 0;
-  font-size: 80px;
+  font-size: 50px;
 
 
 }
@@ -57,15 +58,15 @@ li{
 .blue-box{
   position: absolute;
   width: 75%;
-  height: 25%;
+  height: 30%;
   background-color: darkblue;
-  top: 450px;
+  top: 375px;
 }
 
 
 .right-picture{
   position: absolute;
-  top: 175px;
+  top: 100px;
   right: 0px;
   width: 500px;
 }
