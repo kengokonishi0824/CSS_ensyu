@@ -1,7 +1,7 @@
 header{
   display:flex;
   justify-content: space-between;
-  width: 100%;
+  width: 1000px;
 }
 
 .coachtech{
@@ -29,14 +29,14 @@ li{
 .body{
   position: relative;
   display: flex;
-  width: 100%;
+  width: 1000px;
   
 }
 
 .ttl-left{
   position: absolute;
   width: 100%;
-  height: 700px;
+  height: 600px;
 }
 
 .txt1-parent{
@@ -57,15 +57,15 @@ li{
 .blue-box{
   position: absolute;
   width: 75%;
-  height: 50%;
+  height: 25%;
   background-color: darkblue;
-  top: 500px;
+  top: 450px;
 }
 
 
 .right-picture{
   position: absolute;
-  top: 100px;
+  top: 175px;
   right: 0px;
-  width: 900px;
+  width: 500px;
 }
